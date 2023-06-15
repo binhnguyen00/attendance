@@ -1,0 +1,15 @@
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\net7.0\attendance.exe
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\net7.0\attendance.deps.json
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\net7.0\attendance.runtimeconfig.json
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\net7.0\attendance.dll
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\net7.0\attendance.pdb
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.csproj.AssemblyReference.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.AssemblyInfoInputs.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.AssemblyInfo.cs
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.csproj.CoreCompileInputs.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.dll
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\refint\attendance.dll
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.pdb
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\attendance.genruntimeconfig.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net7.0\ref\attendance.dll

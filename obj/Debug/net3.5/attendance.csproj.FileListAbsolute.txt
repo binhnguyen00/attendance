@@ -1,0 +1,6 @@
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.csproj.AssemblyReference.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.csproj.SuggestedBindingRedirects.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.AssemblyInfoInputs.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.AssemblyInfo.cs
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\net3.5\attendance.csproj.CoreCompileInputs.cache

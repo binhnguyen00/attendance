@@ -1,0 +1,7 @@
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\Interop.zkemkeeper.dll
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\attendance.csproj.ResolveComReference.cache
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\attendance.exe
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\attendance.pdb
+C:\ahaysoft\code\datatp\windowapps\attendance\bin\Debug\Interop.zkemkeeper.dll
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\attendance.exe
+C:\ahaysoft\code\datatp\windowapps\attendance\obj\Debug\attendance.pdb
